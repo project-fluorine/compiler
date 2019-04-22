@@ -1,0 +1,14 @@
+{
+  "name": "fluorine-core",
+  "version": "0.1.0",
+  "description": "core language/compiler for fluorine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "project-fluorine",
+  "license": "MIT",
+  "dependencies": {
+    "nearley": "2.16.*"
+  }
+}
